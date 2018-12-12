@@ -8,10 +8,10 @@
 * Dexter D'Cruz
 
 ## Project Description
-For airline travel originating, finalizing or transiting at ATX ascertain growth based on the following factors
+For airline travel to and from AUS ascertain growth based on the following factors
 * number of airlines added over the years
-* number of segments added over the years
-* number of passengers arriving, finalizing or transiting
+* number of city pair segments added over the years
+* number of passengers travelling through AUS
 * change of average fare over the years
 
 ## Data Sources:
@@ -23,7 +23,10 @@ https://www.bts.gov/topics/airlines-and-airports-0
 * customer satisfaction over the years
 
 ## Data Sets to be Used
+https://data.transportation.gov/Aviation/Consumer-Airfare-Report-Table-1a-All-U-S-Airport-P/tfrh-tu9e
 
+Special notes for the columns:
+passengers: Passenger Per day
 
 ## Data Range
 * 2007 thru 2017
